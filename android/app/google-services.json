@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075203913779",
+    "project_id": "forex-trading-app-faded",
+    "storage_bucket": "forex-trading-app-faded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075203913779:android:4608f030cf63786a1b0b46",
+        "android_client_info": {
+          "package_name": "com.example.forex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOBW9bKzBrhiJJ_KbRByA9xiE6OfmqtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
